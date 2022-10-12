@@ -2,22 +2,30 @@
 
 <img style='width:100%' src='src/assets/images/preview.png'>
 
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/yasyaelhakim/5) [![Donate Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-red)](https://ko-fi.com/elhakimyasya) ![GitHub last commit](https://img.shields.io/github/last-commit/elhakimyasya/Webium-Blogger-Theme?color=green) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/elhakimyasya/Webium-Blogger-Theme?color=yellow)
+[Get Started](https://bemail.github.io/webium/)
+
+[View Sample](https://bemail.github.io/webium/src/go.html)
+
+[Excample Page Webium](https://bemail.github.io/webium/src/alhikmah.html)
+
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/wahyudi9kdl) [![Donate Ko-Fi](https://img.shields.io/badge/Donate-Ko--Fi-red)]() ![GitHub last commit](https://img.shields.io/github/last-commit/elhakimyasya/Webium-Blogger-Theme?color=green) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/bemail/webium?color=yellow)
 
 > _Recently, we are trying to update all the structure and design of the Webium Theme to look very much like the original Website._
 >
-> _Old files can be found in [/old](https://github.com/elhakimyasya/Webium-Blogger-Theme/tree/main/old) directory._
+> _Old files can be found in [/old](https://github.com/bemail/webium/tree/main/old) directory._
 >
-> _Always support us by simply donating via [Ko-Fi](https://ko-fi.com/elhakimyasya) or [PayPal](https://www.paypal.me/yasyaelhakim/5) 😃._
+> _Always support us by simply donating via [Ko-Fi]() or [PayPal](https://www.paypal.me/wahyudi9kdl) 😃._
 
-Webium is a Blogger Template or Theme that looks very similar to the Medium.com. [View Demo](https://webium-blogger.blogspot.com/).
+Webium is a Blogger Template or Theme that looks very similar to the Medium.com. [View Demo](https://bemail.github.io/webium/).
 
-If you have questions related to this theme, please write in the [Comments](https://www.elcreativeacademy.com/2021/03/webium-template-blogger-mirip-medium.html) or [Discussions](https://github.com/elhakimyasya/Webium-Blogger-Theme/discussions) page.
+If you have questions related to this theme, please write in the [Comments](https://go.awdev.my.id) or [Discussions](https://github.com/bemail/webium/discussions) page.
 
 <hr>
 
 ## To-Do List (Latest Update Progress)
-[Live Demo (Beta)](https://idpdthemes.blogspot.com/)
+[Live Demo (Go)](https://bemail.github.io/webium/src/go.html)
+
+[Live Demo (Beta)](https://bemail.github.io/webium/)
 
 - ✅ Home Page
 - ✅ Search Page
@@ -37,11 +45,11 @@ If you have questions related to this theme, please write in the [Comments](http
 - [Easy Toggle State](https://github.com/Twikito/easy-toggle-state)
 - [Simple AJAX infinite scroll](https://dte.web.id/teknis/blogger-infinite-scroll)
 - Some Images from [Unsplash](https://unsplash.com/)
-
+- Home Page [View Site](https://bemail.github.io/webium/)
 ## More Info
 
-- [Documentation](https://webium-blogger.blogspot.com/p/webium-documentations.html)
-- [Official Website](https://www.elcreativeacademy.com/)
+- [Documentation](https://github.com/bemail/webium/edit/dev/README.md)
+- [Official Website](https://bemail.github.io/webium/)
 
 ## License
 
