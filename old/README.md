@@ -1,6 +1,6 @@
 # Webium Blogger Theme
 
-<img style='width:100%' src='src/assets/images/preview.png'>
+<img style='width:100%' src='/old/preview.png'>
 
 [Get Started](https://bemail.github.io/webium/)
 
